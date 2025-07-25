@@ -1,7 +1,3 @@
-Based on your previous history, here's a complete and well-formatted **README** file for your **Banking Management System** project built using **Python and Tkinter**, with **SQLite3** as the backend database.
-
----
-
 ## 🏦 Banking Management System
 
 ### ✅ Description
